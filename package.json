@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolotinAlexey/goit-js-hw-08.git"
+  },
+  "keywords": [],
+  "author": "Oleksii Bolotin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BolotinAlexey/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/BolotinAlexey/goit-js-hw-08#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "simplelightbox": "^2.12.1"
+  }
+}
